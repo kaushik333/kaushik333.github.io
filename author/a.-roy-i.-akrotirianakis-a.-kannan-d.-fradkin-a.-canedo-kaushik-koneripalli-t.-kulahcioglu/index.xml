@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Roy, I. Akrotirianakis, A. Kannan, D. Fradkin, A. Canedo, Kaushik Koneripalli, T. Kulahcioglu | Kaushik Koneripalli</title>
+    <link>https://kaushik333.github.io/author/a.-roy-i.-akrotirianakis-a.-kannan-d.-fradkin-a.-canedo-kaushik-koneripalli-t.-kulahcioglu/</link>
+      <atom:link href="https://kaushik333.github.io/author/a.-roy-i.-akrotirianakis-a.-kannan-d.-fradkin-a.-canedo-kaushik-koneripalli-t.-kulahcioglu/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Roy, I. Akrotirianakis, A. Kannan, D. Fradkin, A. Canedo, Kaushik Koneripalli, T. Kulahcioglu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://kaushik333.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Roy, I. Akrotirianakis, A. Kannan, D. Fradkin, A. Canedo, Kaushik Koneripalli, T. Kulahcioglu</title>
+      <link>https://kaushik333.github.io/author/a.-roy-i.-akrotirianakis-a.-kannan-d.-fradkin-a.-canedo-kaushik-koneripalli-t.-kulahcioglu/</link>
+    </image>
+    
+    <item>
+      <title>Diag2graph: Representing Deep Learning Diagrams in Research Papers as Knowledge Graphs - ICIP 2020</title>
+      <link>https://kaushik333.github.io/publication/diag2graph-representing-deep-learning-diagrams-in-research-papers-as-knowledge-graphs/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://kaushik333.github.io/publication/diag2graph-representing-deep-learning-diagrams-in-research-papers-as-knowledge-graphs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

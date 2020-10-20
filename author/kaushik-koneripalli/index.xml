@@ -5,36 +5,12 @@
     <link>https://kaushik333.github.io/author/kaushik-koneripalli/</link>
       <atom:link href="https://kaushik333.github.io/author/kaushik-koneripalli/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaushik Koneripalli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://kaushik333.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kaushik Koneripalli</title>
       <link>https://kaushik333.github.io/author/kaushik-koneripalli/</link>
     </image>
-    
-    <item>
-      <title>Rate Invariant Autoencoding of Time Series - ICASSP 2020</title>
-      <link>https://kaushik333.github.io/publication/rate-invariant-autoencoding-of-time-series/</link>
-      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://kaushik333.github.io/publication/rate-invariant-autoencoding-of-time-series/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Structured Disentangling Networks for Learning Deformation Invariant Latent Spaces - Master&#39;s thesis</title>
-      <link>https://kaushik333.github.io/publication/structured-disentangling-networks-for-learning-deformation-invariant-latent-spaces/</link>
-      <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://kaushik333.github.io/publication/structured-disentangling-networks-for-learning-deformation-invariant-latent-spaces/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SAR Image Compression Using Optimal Thresold Based Support Vector Machines - INDICON 2016</title>
-      <link>https://kaushik333.github.io/publication/sar-image-compression-using-optimal-thresold-based-support-vector-machines/</link>
-      <pubDate>Tue, 20 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://kaushik333.github.io/publication/sar-image-compression-using-optimal-thresold-based-support-vector-machines/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
